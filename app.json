@@ -1,0 +1,6 @@
+{
+  "name": "livewire",
+  "description": "A websocket Clojure app, broadcasting Postgres changes to authenticated clients.",
+  "image": "heroku/clojure",
+  "addons": [  ]
+}
